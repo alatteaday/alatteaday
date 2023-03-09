@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   <a href="https://sites.google.com/site/kasohn/group" target="_blank"><img src="https://img.shields.io/badge/Lamda Lab-847975?style=flat-square&logo=Google&logoColor=white"/></a> </br>
   </br>
-  A deep learning researcher/engineer </br>
+  A Deep Learning Researcher/Engineer </br>
   Would like to make our life and society better with AI ✨ 
 </p>
 </br>
