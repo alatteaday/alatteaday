@@ -25,14 +25,13 @@
 </br>
 
 <p align="center">
-  <b>Passionated about</b>
-    </br>
-  LanguageModeling, DialogueGeneration, Prompt-basedLearning, and HateSpeechCountering </br>
-  Social and cultural issues</br>
-    </br>
   <b>Interested in</b>
     </br>
-  ComputerVision, Multi-modal, ReinforcementLearning </br>
+  Natural Language Processing: </br>
+  LanguageModeling, DialogueGeneration, Prompt-basedLearning, and HateSpeechCountering </br>
+  Model Distillation and Deployment </br>
+  ComputerVision, Multi-modal and ReinformentLearning </br></br>
+  Social and Cultural Issues </br></br>
   ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛</br>
 </p>
 </br>
