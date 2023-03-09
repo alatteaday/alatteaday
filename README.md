@@ -6,6 +6,7 @@
 🌟 ✨ ☘️ 🌈 💫 ⚡ 🥗 🐈‍⬛ ☕ ✈️ 📕 💖🌻 ☀️
 
 -->
+</br>
 <h3 align="center"> Who knows? It's worth it </h3>
 
 <p align="center">
@@ -54,7 +55,7 @@
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white"/> 
 
 </p>
-
+</br>
 
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=792EE5&height=200&section=footer)
