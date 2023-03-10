@@ -37,11 +37,11 @@
     </br>
   <b>+ Interested in</b>
     </br>
-  Model Deployment </br>
-  Computer Vision, Multi-modal and Reinforment Learning </br></br>
+  Multi-modal, Computer Vision and Reinforment Learning </br>
+  Model Deployment </br></br>
   Language </br>
   Social and Cultural Issues </br></br>
-  ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛</br>
+  💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛</br>
 </p>
 </br>
 
