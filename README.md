@@ -25,12 +25,21 @@
 </br>
 
 <p align="center">
-  <b>Interested in</b>
+  <b>Natural Language Processing</b>
     </br>
-  Natural Language Processing: </br>
-  LanguageModeling, DialogueGeneration, Prompt-basedLearning, and HateSpeechCountering </br>
-  Model Distillation and Deployment </br>
-  ComputerVision, Multi-modal and ReinformentLearning </br></br>
+  LanguageModeling, DialogueGeneration, Prompt-basedLearning, </br> and HateSpeechCountering </br>
+    </br>
+  <b>+ Have Experiences in</b>
+    </br>
+  Data Analysis </br>
+  ImageSuperResolution, SceneTextImageSuperResolution </br>
+  Language Model Distillation </br>
+    </br>
+  <b>+ Interested in</b>
+    </br>
+  Model Deployment </br>
+  Computer Vision, Multi-modal and Reinforment Learning </br></br>
+  Language </br>
   Social and Cultural Issues </br></br>
   ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛</br>
 </p>
