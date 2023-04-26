@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   <a href="https://sites.google.com/site/kasohn/home?authuser=0" target="_blank"><img src="https://img.shields.io/badge/Lamda Lab-847975?style=flat-square&logo=Google&logoColor=white"/></a> </br>
   </br>
-  A Deep Learning Researcher/Engineer </br>
+  Machine Learning Researcher/Engineer </br>
   Would like to make our life and society better with AI ✨ 
 </p>
 </br>
@@ -27,21 +27,21 @@
 <p align="center">
   <b>Natural Language Processing</b>
     </br>
-  LanguageModeling, DialogueGeneration, Prompt-basedLearning, </br> and HateSpeechCountering </br>
+  Language Modeling, Prompt-based Learning, Language Model Distillation, </br> and Hate Speech Countering </br>
     </br>
   <b>+ Have Experiences in</b>
     </br>
-  Data Analysis </br>
-  ImageSuperResolution, SceneTextImageSuperResolution </br>
-  Language Model Distillation </br>
+  Image Super Resolution, Scene Text Image Super Resolution </br>
+   Parallel Training </br>
+   Data Analysis </br>
     </br>
   <b>+ Interested in</b>
     </br>
-  Multi-modal, Computer Vision and Reinforment Learning </br>
-  Model Deployment </br></br>
+  Multi-modal, Reinforcement Learning </br>
+  MLOps </br></br>
   Language </br>
   Social and Cultural Issues </br></br>
-  💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛</br>
+  💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩 </br>
 </p>
 </br>
 
