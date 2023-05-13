@@ -9,21 +9,19 @@
 </br>
 <h3 align="center"> Kim Jiyun </h3>
 
+<!--
 <p align="center">
   🌻 Better me, Happier us  </br>
   🌟 Diverge deeper, Converge wider  </br>
 </p>
-
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/jyuun.k@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   <a href="https://sites.google.com/site/kasohn/home?authuser=0" target="_blank"><img src="https://img.shields.io/badge/Lamda Lab-847975?style=flat-square&logo=Google&logoColor=white"/></a> </br>
   </br>
-  Machine Learning Researcher/Engineer </br>
-  Would like to make our life and society better with AI ✨ 
+  Machine Learning Researcher/Engineer 
 </p>
 </br>
-
 <p align="center">
   <b>Natural Language Processing</b>
     </br>
@@ -39,8 +37,6 @@
     </br>
   Multi-modal, Reinforcement Learning </br>
   MLOps </br></br>
-  Language </br>
-  Social and Cultural Issues </br></br>
   💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩 </br>
 </p>
 </br>
