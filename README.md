@@ -17,7 +17,7 @@
 -->
 <p align="center">
   <img src="https://img.shields.io/badge/jyuun.k@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-  <a href="https://sites.google.com/site/kasohn/home?authuser=0" target="_blank"><img src="https://img.shields.io/badge/Lamda Lab-847975?style=flat-square&logo=Google&logoColor=white"/></a> </br>
+  
   </br>
   Machine Learning Researcher/Engineer 
 </p>
@@ -25,18 +25,8 @@
 <p align="center">
   <b>Natural Language Processing</b>
     </br>
-  Language Modeling, Prompt-based Learning, Language Model Distillation, </br> and Hate Speech Countering </br>
-    </br>
-  <b>+ Have Experiences in</b>
-    </br>
-  Image Super Resolution, Scene Text Image Super Resolution </br>
-   Parallel Training </br>
-   Data Analysis </br>
-    </br>
-  <b>+ Interested in</b>
-    </br>
-  Multi-modal, Reinforcement Learning </br>
-  MLOps </br></br>
+  Language Modeling, </br> and Hate Speech Countering </br>
+</br></br>
   💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩 </br>
 </p>
 </br>
