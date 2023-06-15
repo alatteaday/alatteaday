@@ -21,11 +21,7 @@
   </br>
   Machine Learning Researcher/Engineer 
 </p>
-</br>
 <p align="center">
-  <b>Natural Language Processing</b>
-    </br>
-  Language Modeling, </br> and Hate Speech Countering </br>
 </br></br>
   💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩 </br>
 </p>
