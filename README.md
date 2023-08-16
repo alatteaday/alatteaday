@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/jyuun.k@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
   
   </br>
-  Machine Learning Researcher/Engineer 
+  Machine Learning Researcher
 </p>
 <p align="center">
 </br></br>
