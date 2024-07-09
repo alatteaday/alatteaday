@@ -6,29 +6,29 @@
 🌟 ✨ ☘️ 🌈 💫 ⚡ 🥗 🐈‍⬛ ☕ ✈️ 📕 💖🌻 ☀️🏋️‍♀️ 👩‍🍳 🖼️
 
 -->
-</br>
+<br>
 <h3 align="center"> Kim Jiyun </h3>
-
+<p align="center">
 <!--
 <p align="center">
   🌻 Better me, Happier us  </br>
   🌟 Diverge deeper, Converge wider  </br>
 </p>
 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/jyuun.k@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-  
-  </br>
   Machine Learning Researcher
+  <br>
+  <br>
+  Feel free to email:
+  <br>
+  <a href="mailto:jyuun.k@gmail.com"><img src="https://img.shields.io/badge/jyuun.k@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <br>
+  <br>
+  Welcome to check out my blog: 
+  <br>
+  <a href='https://alatteaday.github.io'><img src="https://img.shields.io/badge/alatteaday.github.io-6a3a2a?style=flat-square&logo=Github&logoColor=white"/></a>
 </p>
-<p align="center">
-</br></br>
-  💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩 </br>
-</p>
-</br>
-
+<br>
 <h3 align="center"> Skills & Tools </h3>
- 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
@@ -44,10 +44,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> 
 
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>   
-  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+  <br><br><br>
+    💜 ✈️ 📕 👩‍🍳 🖼️ 🏋️‍♀️ 🥗 🐈‍⬛ 🐩
 </p>
-</br>
+<br>
+
 
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=792EE5&height=200&section=footer)
