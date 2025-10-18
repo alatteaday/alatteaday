@@ -15,7 +15,7 @@
   🌟 Diverge deeper, Converge wider  </br>
 </p>
 -->
-  Machine Learning Researcher
+  AI/ML Researcher/Engineer
   <br>
   <br>
   Feel free to email:
